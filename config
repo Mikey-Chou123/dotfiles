@@ -200,7 +200,7 @@ bar {
 
 # Set inner/outer gaps
 gaps inner 5
-gaps outer -5
+gaps outer 2
 
 # ===== THEMES ====== (Currently catppuccin-macchiato)
 
